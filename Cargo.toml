@@ -1,7 +1,9 @@
 [package]
 name = "chalbik"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+authors = ["Dan Denkijin <denkijin@proton.me>"]
+repository = "https://github.com/dandenkijin/chalbik"
 
 [dependencies]
 ratatui = "0.29.0"
